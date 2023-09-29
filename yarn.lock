@@ -3,8 +3,9 @@
 
 
 "@consumet/extensions@https://github.com/consumet/consumet.ts.git":
-  version "1.5.1"
-  resolved "https://github.com/consumet/consumet.ts.git#5d3286cabfcc1247727bf55504d072b918b927ff"
+  version "1.5.2"
+  uid "1a9e5e37992d52637986efeaddabe816324418c4"
+  resolved "https://github.com/consumet/consumet.ts.git#1a9e5e37992d52637986efeaddabe816324418c4"
   dependencies:
     ascii-url-encoder "^1.2.0"
     axios "^0.27.2"
