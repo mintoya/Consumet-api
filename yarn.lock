@@ -3,11 +3,13 @@
 
 
 "@consumet/extensions@https://github.com/consumet/consumet.ts.git":
-  version "1.5.1"
-  resolved "https://github.com/consumet/consumet.ts.git#5d3286cabfcc1247727bf55504d072b918b927ff"
+  version "1.5.4"
+  uid "4dc76dcdf08b34319a08706095de9233b29ad69a"
+  resolved "https://github.com/consumet/consumet.ts.git#4dc76dcdf08b34319a08706095de9233b29ad69a"
   dependencies:
     ascii-url-encoder "^1.2.0"
     axios "^0.27.2"
+    blurhash "^2.0.5"
     cheerio "1.0.0-rc.12"
     crypto-js "^4.1.1"
     form-data "^4.0.0"
@@ -235,6 +237,11 @@ binary-extensions@^2.0.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/binary-extensions/-/binary-extensions-2.2.0.tgz#75f502eeaf9ffde42fc98829645be4ea76bd9e2d"
   integrity sha512-jDctJ/IVQbZoJykoeHbhXpOlNBqGNcwXJKJog42E5HDPUwQTSdjCHdihjj0DlnheQ7blbT6dHOafNAiS8ooQKA==
+
+blurhash@^2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/blurhash/-/blurhash-2.0.5.tgz#efde729fc14a2f03571a6aa91b49cba80d1abe4b"
+  integrity sha512-cRygWd7kGBQO3VEhPiTgq4Wc43ctsM+o46urrmPOiuAe+07fzlSB9OJVdpgDL0jPqXUVQ9ht7aq7kxOeJHRK+w==
 
 boolbase@^1.0.0:
   version "1.0.0"
